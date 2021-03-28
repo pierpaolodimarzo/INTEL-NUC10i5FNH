@@ -23,12 +23,12 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 | CPU              | Intel® Core™ i5-10210U                 |
 | iGPU             | Intel® UHD Graphics 630                |
 | Audio            | Realtek ALC256                         |
-| Ram              | 16 GB DDR4 2600 Mhz                    |
-| Wifi + Bluetooth | Intel® Wireless-AC 9560 + Bluetooth 5.0|
-| Lan              | Intel I219-V.                          |
+| RAM              | 16 GB DDR4 2600 Mhz                    |
+| WiFi + Bluetooth | Intel® Wireless-AC 9560 + Bluetooth 5.0|
+| LAN              | Intel I219-V.                          |
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
 | NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
-| SmBios           | Macmini8,1                             |
+| SMBios           | Macmini8,1                             |
 | BootLoader       | OpenCore 0.6.7                         |
 | macOS            | Big Sur 11.2.3                         |
 
