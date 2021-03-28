@@ -16,7 +16,7 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
 ![descrizione](./Infos/pc.png)
 
-### Computer Spec:
+### INFO PC:
 
 | Component        | Brank                                  |
 | ---------------- | ---------------------------------------|
@@ -27,7 +27,7 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 | Wifi + Bluetooth | Intel® Wireless-AC 9560 + Bluetooth 5.0|
 | Lan              | Intel I219-V.                          |
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
-| NVMe             | KINGSTON A2000 M.2 2280 NVME(MacOS)    |
+| NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
 | SmBios           | Macmini8,1                             |
 | BootLoader       | OpenCore 0.6.7                         |
 | macOS            | Big Sur 11.2.3                         |
