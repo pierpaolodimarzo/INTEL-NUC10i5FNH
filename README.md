@@ -1,0 +1,2 @@
+# Intel-NUC10i5FNH
+Intel-NUC10i5FNH
