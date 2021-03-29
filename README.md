@@ -78,27 +78,23 @@ To start, choose "Load Defaults" (choose from the menu or press F2 in the BIOS s
 
 BIOS version FNCML357.0050 (latest)
 
-*** Advanced
- ** Storage
-  * SATA Mode Selection -> AHCI
-	◦	Video
-		▪	IGD Minimum Memory -> 64MB
-		▪	IGD Aperture Size -> 256MB
-		▪	IGD Primary Video Port -> Auto
-•	Boot
-	◦	Secure Boot
-		▪	Secure Boot -> Disabled
-	◦	Boot Priority
-		▪	UEFI Boot -> Checked
-		▪	Legacy Boot -> Unchecked
-		▪	Fast Boot -> Unchecked
-•	Power
-	◦	Secondary Power Settings
-		▪	Deep S4/S5 -> Off
-		▪	Wake on Lan from S4/S5 -> Stay Off
-		▪	Wake System from S5 -> Off
-		▪	Wake From Thunderbolt Device -> Off
-
+* ## Advanced
+* ATA Mode Selection -> AHCI
+* ## Video
+* IGD Minimum Memory -> 64MB
+* IGD Aperture Size -> 256MB
+* IGD Primary Video Port -> Auto
+* ## Boot
+* Secure Boot -> Disabled
+* UEFI Boot -> Checked
+* Legacy Boot -> Unchecked
+* Fast Boot -> Unchecked
+* ## Power
+* Secondary Power Settings
+* Deep S4/S5 -> Off
+* Wake on Lan from S4/S5 -> Stay Off
+* Wake System from S5 -> Off
+* Wake From Thunderbolt Device -> Off
 
 ## Credits
 
