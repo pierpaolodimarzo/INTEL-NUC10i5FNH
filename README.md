@@ -20,6 +20,10 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
 macOS Big Sur 11.2.3
 
+## Attention ## 
+
+Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
+
 ### INFO PC:
 
 | Component        | Brank                                  |
