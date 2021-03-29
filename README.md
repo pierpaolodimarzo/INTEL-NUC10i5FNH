@@ -32,6 +32,9 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 | BootLoader       | OpenCore 0.6.7                         |
 | macOS            | Big Sur 11.2.3                         |
 
+
 ![infobigsur](./Infos/infomac.png)
+
+
 
 
