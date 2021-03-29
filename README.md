@@ -35,6 +35,6 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
 ![infobigsur](./Infos/infomac.png)
 
-
+See the [IOREG]()
 
 
