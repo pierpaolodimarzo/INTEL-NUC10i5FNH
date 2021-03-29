@@ -58,4 +58,4 @@ See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/M
 ![infohack](./Infos/peripherals.png)
 ![CPU](./Infos/cputest.png)
 ![GPU-metal](./Infos/metal.png)
-![GPU-opencl](./Infos/opengl.png)
+![GPU-opencl](./Infos/opencl.png)
