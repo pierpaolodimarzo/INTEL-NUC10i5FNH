@@ -35,6 +35,27 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
 ![infobigsur](./Infos/infomac.png)
 
-See the [IOREG]()
+See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/Mac%20mini.ioreg)
 
+### What works and What doesn't or WIP:
 
+- [x] CFG Unlock
+- [x] Intel Graphics UHD iGPU HDMI Output
+- [x] ALC256 Internal Speakers
+- [x] ALC256 HDMI/Thunderbolt Audio Output
+- [x] All USB Ports (3.0/3.1)
+- [x] Sleep / Wake / SpeedStep 
+- [x] AC 9560 Wi-Fi and Bluetooth
+- [x] Controller NVME PciE Gen3x4 
+- [x] NVRAM
+- [x] microSDXC Card Reader
+- [x] Thunderbolt 3 GC Titan Ridge V2
+- [x] Thunderbolt Hotplug for GC Titan Ridge
+- [x] USB C Hotplug For GC Titan Ridge
+
+## Peripherals & Benchmarks
+
+![infohack](./Infos/peripherals.png)
+![CPU](./Infos/cputest.png)
+![GPU-metal](./Infos/metal.png)
+![GPU-opencl](./Infos/opengl.png)
