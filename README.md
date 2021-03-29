@@ -68,3 +68,6 @@ This is the speed test of RAM [Crucial 8GB x2 DDR4 2400](https://it.crucial.com/
 
 ![InternalRAM](./Infos/testRAM.png)
 
+OS Version Tested
+
+    macOS Big Sur 11.1
