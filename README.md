@@ -27,9 +27,9 @@ macOS Big Sur 11.2.3
 | CPU              | Intel® Core™ i5-10210U                 |
 | iGPU             | Intel® UHD Graphics 630                |
 | Audio            | Realtek ALC256                         |
-| RAM              | 16 GB DDR4 2600 Mhz                    |
-| WiFi + Bluetooth | Intel® Wireless-AC 9560 + Bluetooth 5.0|
-| LAN              | Intel I219-V.                          |
+| RAM              | 16 GB DDR4 2400 Mhz                    |
+| WiFi + Bluetooth | INTEL Wi-Fi 6 AX201 + Bluetooth 5.0    |
+| LAN              | Intel I219V10                          |
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
 | NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
 | SMBios           | Macmini8,1                             |
