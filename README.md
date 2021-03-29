@@ -132,7 +132,7 @@ We need to get to the "CPUSetup"
 
 And click ENTER to access the section.
 
-![CPUSetupRU](./CFGunlock/CPUSetup.jpg)
+![CPUSetupRU](./CFGunlock/CPUSetupRU.jpg)
 
 Now we have to go down to the value "0030 - 0E
 
