@@ -14,6 +14,10 @@
 
 EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
+## OS Version Tested
+
+macOS Big Sur 11.2.3
+
 ![descrizione](./Infos/pc.png)
 
 ### INFO PC:
@@ -68,14 +72,13 @@ This is the speed test of RAM [Crucial 8GB x2 DDR4 2400](https://it.crucial.com/
 
 ![InternalRAM](./Infos/testRAM.png)
 
-## OS Version Tested
-
-macOS Big Sur 11.1
-
 ## BIOS config
 
+To start, choose "Load Defaults" (choose from the menu or press F2 in the BIOS setup).
+
 BIOS version FNCML357.0050 (latest)
-•	Advanced
+
+• Advanced
 	◦	Storage
 		▪	SATA Mode Selection -> AHCI
 	◦	Video
