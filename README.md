@@ -78,9 +78,9 @@ To start, choose "Load Defaults" (choose from the menu or press F2 in the BIOS s
 
 BIOS version FNCML357.0050 (latest)
 
-• Advanced
-	◦	Storage
-		▪	SATA Mode Selection -> AHCI
+*** Advanced
+ ** Storage
+  * SATA Mode Selection -> AHCI
 	◦	Video
 		▪	IGD Minimum Memory -> 64MB
 		▪	IGD Aperture Size -> 256MB
@@ -99,3 +99,15 @@ BIOS version FNCML357.0050 (latest)
 		▪	Wake System from S5 -> Off
 		▪	Wake From Thunderbolt Device -> Off
 
+
+## Credits
+
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
+- [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
+- [basett1](https://github.com/basett1/) for the support 
+- [MBarbierato](https://github.com/mbarbierato) for the support and the infos about SD Card Reader and other.
+- [Lorys89](https://github.com/Lorys89) for the support of settings of UHD Graphics.
+
+# If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/).
