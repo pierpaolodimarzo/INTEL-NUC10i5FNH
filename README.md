@@ -68,6 +68,31 @@ This is the speed test of RAM [Crucial 8GB x2 DDR4 2400](https://it.crucial.com/
 
 ![InternalRAM](./Infos/testRAM.png)
 
-OS Version Tested
+## OS Version Tested
 
-    macOS Big Sur 11.1
+macOS Big Sur 11.1
+
+## BIOS config
+
+BIOS version FNCML357.0050 (latest)
+	•	Advanced
+	◦	Storage
+	▪	SATA Mode Selection -> AHCI
+	◦	Video
+	▪	IGD Minimum Memory -> 64MB
+	▪	IGD Aperture Size -> 256MB
+	▪	IGD Primary Video Port -> Auto
+	•	Boot
+	◦	Secure Boot
+	▪	Secure Boot -> Disabled
+	◦	Boot Priority
+	▪	UEFI Boot -> Checked
+	▪	Legacy Boot -> Unchecked
+	▪	Fast Boot -> Unchecked
+	•	Power
+	◦	Secondary Power Settings
+	▪	Deep S4/S5 -> Off
+	▪	Wake on Lan from S4/S5 -> Stay Off
+	▪	Wake System from S5 -> Off
+	▪	Wake From Thunderbolt Device -> Off
+
