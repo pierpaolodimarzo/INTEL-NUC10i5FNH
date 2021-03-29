@@ -150,8 +150,6 @@ If everything went well, we will have this screen with a red popup
 
 ![CPUSetupeMODSAVERU](./CFGunlock/valoremodsave.jpg)
 
-Now you can turn off the PC with the button.
-
 Ejoy
 
 ## Credits
