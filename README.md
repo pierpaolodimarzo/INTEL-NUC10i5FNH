@@ -163,7 +163,7 @@ Ejoy
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
 - [MBarbierato](https://github.com/mbarbierato) for the support and the infos about SD Card Reader and other.
-- [basett1](https://github.com/basett1/) for the support above the all best settings.
+- [basett1](https://github.com/basett1/) for the support and for the cfg lock tools and info.
 - [Lorys89](https://github.com/Lorys89) for the support of settings of UHD Graphics.
 
 # If you need help please contact us on [Telegram](https://t.me/HackintoshLife_it) or [Web](https://www.hackintoshlife.it/).
