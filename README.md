@@ -166,7 +166,7 @@ Ejoy
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
-- [MBarbierato](https://github.com/mbarbierato) for the valuable support during the configuration phase, and for the fix of the SD Card Reader, and other
+- [MBarbierato](https://github.com/mbarbierato) for the valuable support for installation and post installation, and for the fix of the SD Card Reader, and other
 - [basett1](https://github.com/basett1/) for the support and for the cfg lock tools and info.
 - [Lorys89](https://github.com/Lorys89) for the support of settings of UHD Graphics.
 
