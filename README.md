@@ -58,7 +58,6 @@ See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/M
 - [x] Controller NVME PciE Gen3x4 
 - [x] NVRAM
 - [x] microSDXC Card Reader
-- [x] Thunderbolt 3 GC Titan Ridge V2
 - [x] Thunderbolt Hotplug for GC Titan Ridge
 - [x] USB C Hotplug For GC Titan Ridge
 
