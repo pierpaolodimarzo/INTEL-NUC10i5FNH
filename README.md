@@ -16,7 +16,7 @@ EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
 
 ![descrizione](./Infos/pc.png)
 
-## OS Version Tested
+## OS Version
 
 macOS Big Sur 11.2.3
 
@@ -75,6 +75,10 @@ This is the speed test of [Kingstone A2000 - SSD NVMe PCIe](https://www.kingston
 This is the speed test of RAM [Crucial 8GB x2 DDR4 2400](https://it.crucial.com/memory/ddr4/ct2k8g4sfs824a)
 
 ![InternalRAM](./Infos/testRAM.png)
+
+This is the speed test of Thunderbolt 3 - SSD 970 EVO Plus
+
+![ThunderboltSSD](./Infos/ThunderbolTest.jpg)
 
 ## BIOS config
 
