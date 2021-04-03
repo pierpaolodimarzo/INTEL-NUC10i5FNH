@@ -49,6 +49,7 @@ See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/M
 ### What works and What doesn't or WIP:
 
 - [x] CFG Unlock
+- [x] Dual Boot Windows/ MacOS
 - [x] Intel Graphics UHD iGPU HDMI Output
 - [x] ALC256 Internal Speakers
 - [x] ALC256 HDMI/Thunderbolt Audio Output
