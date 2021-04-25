@@ -13,11 +13,11 @@
 
 # Intel NUC10i5FNH Hackintosh :sunglasses:
 
-# LAST UPDATE 0.6.7 OC - EFI continuously updated 
+# LAST UPDATE 0.6.8 OC - EFI 🔝 WORK STABLE! 
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Intel NUC10i5FNH with OpenCore 0.6.7 bootloader
+EFI for Intel NUC10i5FNH with OpenCore 0.6.8 bootloader
 
 ![descrizione](./Infos/pc.png)
 
