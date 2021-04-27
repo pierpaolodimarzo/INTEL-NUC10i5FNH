@@ -15,6 +15,8 @@
 
 # LAST UPDATE 0.6.8 OC - EFI 🔝 WORK STABLE! 
 
+DON'T UPDATE TO BIG SUR 11.3!!!!
+
 # Follow me with the stars if you like my EFI ❤️
 
 EFI for Intel NUC10i5FNH with OpenCore 0.6.8 bootloader
