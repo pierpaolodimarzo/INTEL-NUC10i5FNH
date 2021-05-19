@@ -19,7 +19,7 @@ NOW YOU CAN UPDATE ON MAC OS 11.3.1
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Intel NUC10i5FNH with OpenCore 0.6.8 bootloader
+EFI for Intel NUC10i5FNH with OpenCore 0.6.9 bootloader
 
 ![descrizione](./Infos/pc.png)
 
@@ -173,7 +173,7 @@ Ejoy
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
-- [MBarbierato](https://github.com/mbarbierato) for the valuable support for installation and post installation, and for the fix of the SD Card Reader, and other.
+- [MBarbierato](https://github.com/mbarbierato) for the valuable support for installation and post installation, and for the fix of the SD Card Reader, and fix Audio Layer
 - [basett1](https://github.com/basett1/) for the support and for the cfg lock tools and info.
 - [Lorys89](https://github.com/Lorys89) for the support of settings of UHD Graphics.
 
