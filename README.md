@@ -13,9 +13,9 @@
 
 # Intel NUC10i5FNH Hackintosh :sunglasses:
 
-# LAST UPDATE 0.6.8 OC - EFI 🔝 WORK STABLE! 
+# LAST UPDATE 0.6.9 OC - EFI 🔝 WORK STABLE! 
 
-DON'T UPDATE TO BIG SUR 11.3!!!!
+NOW YOU CAN UPDATE ON MAC OS 11.3.1
 
 # Follow me with the stars if you like my EFI ❤️
 
