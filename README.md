@@ -44,8 +44,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
 | NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
 | SMBios           | Macmini8,1                             |
-| BootLoader       | OpenCore 0.6.7                         |
-| macOS            | Big Sur 11.2.3                         |
+| BootLoader       | OpenCore 0.6.9                         |
+| macOS            | Big Sur 11.4                           |
 
 
 ![infobigsur](./Infos/infomac.png)
