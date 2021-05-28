@@ -15,7 +15,7 @@
 
 # LAST UPDATE 0.6.9 OC - EFI 🔝 WORK STABLE! 
 
-NOW YOU CAN UPDATE ON MAC OS 11.3.1
+NOW YOU CAN UPDATE ON MAC OS 11.4 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
