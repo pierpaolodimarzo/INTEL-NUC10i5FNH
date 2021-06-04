@@ -19,7 +19,7 @@ NOW YOU CAN UPDATE ON MAC OS 11.4 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Intel NUC10i5FNH with OpenCore 0.6.9 bootloader
+EFI for Intel NUC10i5FNH with OpenCore 0.6.9 bootloader.
 
 ![descrizione](./Infos/pc.png)
 
