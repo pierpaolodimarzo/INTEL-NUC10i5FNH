@@ -74,6 +74,7 @@ See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/M
 ![CPU](./Infos/cputest.png)
 ![GPU-metal](./Infos/metal.png)
 ![GPU-opencl](./Infos/opencl.png)
+![GPU-accgraf](./Infos/accgraf.png)
 
 This is the speed test of [Kingstone A2000 - SSD NVMe PCIe](https://www.kingston.com/italy/it/ssd/a2000-nvme-pcie-ssd)
 
