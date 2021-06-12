@@ -13,19 +13,19 @@
 
 # Intel NUC10i5FNH Hackintosh :sunglasses:
 
-# LAST UPDATE 0.6.8 OC - EFI 🔝 WORK STABLE! 
+# LAST UPDATE 0.6.9 OC - EFI 🔝 WORK STABLE! 
 
-DON'T UPDATE TO BIG SUR 11.3!!!!
+NOW YOU CAN UPDATE ON MAC OS 11.4 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Intel NUC10i5FNH with OpenCore 0.6.8 bootloader
+EFI for Intel NUC10i5FNH with OpenCore 0.6.9 bootloader.
 
 ![descrizione](./Infos/pc.png)
 
 ## OS Version
 
-macOS Big Sur 11.2.3
+macOS Big Sur 11.4
 
 ## Attention ## 
 
@@ -44,8 +44,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
 | NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
 | SMBios           | Macmini8,1                             |
-| BootLoader       | OpenCore 0.6.7                         |
-| macOS            | Big Sur 11.2.3                         |
+| BootLoader       | OpenCore 0.6.9                         |
+| macOS            | Big Sur 11.4                           |
 
 
 ![infobigsur](./Infos/infomac.png)
@@ -74,6 +74,7 @@ See the [IOREG](https://github.com/pierpaolodimarzo/Intel-NUC10i5FNH/blob/main/M
 ![CPU](./Infos/cputest.png)
 ![GPU-metal](./Infos/metal.png)
 ![GPU-opencl](./Infos/opencl.png)
+![GPU-accgraf](./Infos/accgraf.png)
 
 This is the speed test of [Kingstone A2000 - SSD NVMe PCIe](https://www.kingston.com/italy/it/ssd/a2000-nvme-pcie-ssd)
 
@@ -173,7 +174,7 @@ Ejoy
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
 - [Hackintoshlifeit](https://github.com/Hackintoshlifeit) Support group for installation and post installation.
-- [MBarbierato](https://github.com/mbarbierato) for the valuable support for installation and post installation, and for the fix of the SD Card Reader, and other.
+- [MBarbierato](https://github.com/mbarbierato) for the valuable support for installation and post installation, and for the fix of the SD Card Reader, and fix Audio Layer
 - [basett1](https://github.com/basett1/) for the support and for the cfg lock tools and info.
 - [Lorys89](https://github.com/Lorys89) for the support of settings of UHD Graphics.
 
