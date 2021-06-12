@@ -13,13 +13,13 @@
 
 # Intel NUC10i5FNH Hackintosh :sunglasses:
 
-# LAST UPDATE 0.6.9 OC - EFI 🔝 WORK STABLE! 
+# LAST UPDATE 0.7.0 OC - EFI 🔝 WORK STABLE! 
 
 NOW YOU CAN UPDATE ON MAC OS 11.4 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Intel NUC10i5FNH with OpenCore 0.6.9 bootloader.
+EFI for Intel NUC10i5FNH with OpenCore 0.7.0 bootloader.
 
 ![descrizione](./Infos/pc.png)
 
@@ -44,7 +44,7 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | Thunderbolt 3    | JHL7540 Thunderbolt 3                  |
 | NVMe             | Kingstone A2000 M.2 2280 NVME (MacOS)  |
 | SMBios           | Macmini8,1                             |
-| BootLoader       | OpenCore 0.6.9                         |
+| BootLoader       | OpenCore 0.7.0                         |
 | macOS            | Big Sur 11.4                           |
 
 
